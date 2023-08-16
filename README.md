@@ -1,6 +1,6 @@
-# Fringecore Frontend Challenge Block Graph
+# Block Graph
 
-Welcome to the **Fringecore Frontend Challenge Block Graph** project. This is a front-end challenge aimed at creating a visually appealing block graph component.
+Welcome to the **Block Graph** project. This is a front-end challenge aimed at creating a visually appealing block graph component.
 
 ## Author Details
 
@@ -10,8 +10,8 @@ Welcome to the **Fringecore Frontend Challenge Block Graph** project. This is a 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/orgharoy/fringecore-frontend-challenge-block-graph.git`
-2. Navigate to the project directory: `cd fringecore-frontend-challenge-block-graph`
+1. Clone the repository: `git clone https://github.com/orgharoy/block-graph.git`
+2. Navigate to the project directory: `cd block-graph`
 3. Install dependencies: `npm install`
 4. Run: `npm run dev`
 
